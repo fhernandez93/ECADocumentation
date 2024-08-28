@@ -9,5 +9,5 @@ makedocs(sitename="ECA Documentation",pages = [
     ])
 
     deploydocs(;
-    repo="github.com/fhernandez93/ECA_Documentation",
+    repo="github.com/fhernandez93/ECADocumentation",
 )
