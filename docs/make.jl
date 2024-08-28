@@ -5,7 +5,6 @@ makedocs(sitename="ECA Documentation",pages = [
     "ECA App Modules" => ["MainScreen.md","SearchEmployees.md"],
     
     
-    
     ])
 
     deploydocs(;
