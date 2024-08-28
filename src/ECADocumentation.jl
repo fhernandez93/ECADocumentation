@@ -1,5 +1,7 @@
-module ECADocumentation
+module HelloWorld
 
-greet() = print("Hello World!")
+function say_hello()
+    println("Hello, World!")
+end
 
-end # module ECADocumentation
+end # module
