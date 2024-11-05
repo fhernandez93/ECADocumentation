@@ -1,4 +1,4 @@
-# Main Screen
+# [Main Screen] (@id MainAppScr)
 
 The main screen, named "scrDashboard" in the Tree View of PowerApps, is presented here: 
 
